@@ -9,7 +9,7 @@ private.use(authentication)
 
 private.get("/",(req,res)=>
 {
-    res.send("hello")
+    res.send("hello fff")
 })
 
 module.exports={private}
